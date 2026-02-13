@@ -21,7 +21,9 @@
 npm install
 ```
 
-2. 配置环境变量（可选）
+2. 配置环境变量
+copy .env.example .env
+
 
 `.env`:
 
